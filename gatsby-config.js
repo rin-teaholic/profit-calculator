@@ -3,5 +3,7 @@ module.exports = {
     siteUrl: "https://www.yourdomain.tld",
     title: "Profit Manager",
   },
-  plugins: [],
+  plugins: [
+    `gatsby-plugin-material-ui`,
+  ],
 };
