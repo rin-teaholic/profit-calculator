@@ -6,8 +6,8 @@ import Test from './Test'
 const App = () => {
   return (
     <Layout pageTitle='利益計算ツール'>
-      <Form />
-      {/* <Test /> */}
+      {/* <Form /> */}
+      <Test />
     </Layout>
   )
 }
